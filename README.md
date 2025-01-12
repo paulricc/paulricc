@@ -4,7 +4,7 @@ Currently, I am learning Python to enhance my ability to analyze data, build mod
 
 __Projects__
 - _Pollution level forecasting_: using Random Wlak plus Noise, Hidden Markov Models, Dynamic Linear models to predict PM 2.5 levels.
-- _Stock prices forecasting (coming in few days)_: comparing the performance of Time-series Neural Network, Long Short-Term Memory model, and ARIMA model in foreasting the Stock price movements
+- _Stock prices forecasting_: comparing the performance of Time-series Neural Network, Long Short-Term Memory model, and ARIMA model in foreasting the Stock price movements
 
 📫 Contact me
 - LinkedIn: www.linkedin.com/in/paolo-riccarand
